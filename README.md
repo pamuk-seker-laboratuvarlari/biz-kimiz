@@ -5,4 +5,4 @@
 
 not>okullar açıldığından proje geliştirmeleri yavaşlamıştır.
 
-not>pamuk-şeker laboratuvarlarının projeleri teorik olarak her debian tabanlı dağıtımda çalışabilir,fakat biz sadece debian ı desktekliyoruz.
+not>pamuk-şeker laboratuvarlarının projeleri teorik olarak her debian tabanlı dağıtımda çalışabilir,fakat biz sadece debian'ı desktekliyoruz.
