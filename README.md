@@ -1,7 +1,7 @@
 # pamuk-şeker laboratuvarları
 *pamuk-şeker laboratuvarları özgür yazılımı destekliyen ve amacı c dilini araştırmak ve geliştirmek olan bir topluluk projesidir.
 
-*ayrıca projemiz debian stabilitesini de kapsar,bu yüzden programlarımız hazır olana kadar sürümler güncellenmiyecektir.
+*ayrıca projemiz debian stabilitesini de kapsar,bu yüzden programlarımız hazır olana kadar sürümler güncellenmiyecektir(bu hiç güncelleme almıyacak demek değildir prerelease atıcağız!).
 
 not>okullar açıldığından proje geliştirmeleri yavaşlamıştır.
 
